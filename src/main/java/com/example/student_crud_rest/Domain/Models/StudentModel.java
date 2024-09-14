@@ -1,4 +1,4 @@
-package com.example.student_crud_rest.models;
+package com.example.student_crud_rest.Domain.Models;
 import jakarta.persistence.*;
 
 @Entity
